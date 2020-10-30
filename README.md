@@ -8,7 +8,8 @@ The pdf manual should be quite sufficient to use the package efficiently.
 This free-software is provided with no warranty. All consequences of its use on real-life systems is the responsibility of the user. Under these terms, the user is free to use the executable MPC solver for academic purposes provided that the citations below are included in any publication and/or public presentation of the results obtained with the pdf-mpc package:
 
 
-```@book{alamir2013pragmatic,
+```
+@book{alamir2013pragmatic,
   title={A Pragmatic Story of Model Predictive Control:
   Self-Contained Algorithms and Case-Studies},
   author={Alamir, M.},
@@ -22,4 +23,5 @@ This free-software is provided with no warranty. All consequences of its use on 
   ar{X}iv:1703.08255},
   year = {2017},
 }
+
 
