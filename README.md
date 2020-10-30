@@ -14,10 +14,9 @@ This free-software is provided with no warranty. All consequences of its use on 
   author={Alamir, M.},
   year={2013},
   publisher={CreateSpace Independent Publishing Platform}
-  }```
+  }
 
-
-```@misc{pdf_mpc,
+@misc{pdf_mpc,
   author = {Alamir, M.},
   title = {{A Free-Matlab-Coder package for Real-Time Nonlinear Model Predictive.
   ar{X}iv:1703.08255},
