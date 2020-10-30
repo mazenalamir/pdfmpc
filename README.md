@@ -14,7 +14,7 @@ This free-software is provided with no warranty. All consequences of its use on 
   author={Alamir, M.},
   year={2013},
   publisher={CreateSpace Independent Publishing Platform}
-}
+  }
 
 
 @misc{pdf_mpc,
