@@ -21,5 +21,5 @@ This free-software is provided with no warranty. All consequences of its use on 
   title = {{A Free-Matlab-Coder package for Real-Time Nonlinear Model Predictive.
   ar{X}iv:1703.08255},
   year = {2017},
-}```
+}
 
