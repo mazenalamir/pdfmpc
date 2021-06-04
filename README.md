@@ -24,4 +24,6 @@ This free-software is provided with no warranty. All consequences of its use on 
   year = {2017},
 }
 
+**Code Citation**
 
+[![DOI](https://zenodo.org/badge/308550894.svg)](https://zenodo.org/badge/latestdoi/308550894)
